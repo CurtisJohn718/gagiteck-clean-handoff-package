@@ -72,4 +72,3 @@ For the Gagiteck engineering team, it is recommended to begin with:
 
 All final deliverables are prepared and organized for submission.
 
-Documents reflect validated findings and clearly identified assumptions.
